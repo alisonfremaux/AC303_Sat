@@ -1,0 +1,41 @@
+{
+"manifest_version": 2,
+
+"name": "your bored",
+"description": "press this is your bored", 
+"version": "1.0",
+
+"browser_action": {
+	"default_icon": "ce.png",
+	"default_popup": "popup.html"
+},
+
+"permissions": [
+	"activeTab", 
+	"tabs"
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
